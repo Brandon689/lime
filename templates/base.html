@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    {% include "head.html" %}
+</head>
+<body>
+    <div class="">
+      <header>
+      </header>
+      <main>
+          {% block content %}
+          {% endblock content %}
+      </main>
+      <footer>
+          {% include "footer.html" %}
+      </footer>
+    </div>
+</body>
+</html>

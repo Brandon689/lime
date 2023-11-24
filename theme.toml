@@ -1,7 +1,7 @@
-name = "my theme name"
+name = "Lime"
 description = "A classic blog theme"
 license = "MIT"
-homepage = "https://github.com/getzola/hyde"
+homepage = "https://github.com/Brandon689/lime"
 # The minimum version of Zola required
 min_version = "0.4.0"
 # An optional live demo URL
@@ -15,12 +15,4 @@ demo = ""
 
 # The theme author info: you!
 [author]
-name = "Vincent Prouillet"
-homepage = "https://vincent.is"
-
-# If this is porting a theme from another static site engine, provide
-# the info of the original author here
-[original]
-author =  "mdo"
-homepage = "https://markdotto.com/"
-repo = "https://www.github.com/mdo/hyde"
+name = ""
